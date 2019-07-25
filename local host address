@@ -5,4 +5,4 @@ vlan:
 auth_ip:10.1.0.2
 user_ip:10.1.0.3
 local_ip:10.1.0.4
-
+admin_ip:10.1.0.5
