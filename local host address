@@ -1,0 +1,5 @@
+mgmt_ip:10.1.0.1
+vlan:
+    green:10
+    red:20
+auth_ip:10.1.0.2
